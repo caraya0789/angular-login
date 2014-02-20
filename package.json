@@ -1,0 +1,20 @@
+{
+  "name": "angular-login",
+  "version": "0.0.0",
+  "description": "Angular Login Example on top of NodeJS Server ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/caraya0789/angular-login.git"
+  },
+  "author": "Cristian Araya J.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caraya0789/angular-login/issues"
+  },
+  "homepage": "https://github.com/caraya0789/angular-login"
+}
